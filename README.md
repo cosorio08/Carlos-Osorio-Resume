@@ -1,6 +1,8 @@
 
 # Welcome to LearnCS8 Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+**Carlos Osorio - Certified Public Accountant**
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![This is a screenshot of the first part of my website. As you can see it includes the profile picture along with the subdivisions](img/screenshot.png)
+
+> Written with [StackEdit](https://stackedit.io/).
